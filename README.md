@@ -34,7 +34,7 @@ GUIでDockerデータベースコンテナを簡単に構築できるExcelマク
 2. 必要な設定をシートに入力
 3. マクロボタンでコンテナ構築
 
-詳細は [docker-db-builder-excel/README.md](docker-db-builder-excel/README.md) を参照してください。
+詳細は [docker-db-builder-excel](https://github.com/taiiii123/docker-db-builder-excel/tree/08bf685158f88318fa9cc4c59db910d9c769b1f3) を参照してください。
 
 ### 2. DataPrepper
 
@@ -57,7 +57,7 @@ GUIでDockerデータベースコンテナを簡単に構築できるExcelマク
 2. シートにテストデータを入力
 3. マクロボタンでSQL生成・実行
 
-詳細は [DataPrepper/README.md](DataPrepper/README.md) を参照してください。
+詳細は [DataPrepper](https://github.com/taiiii123/DataPrepper/tree/27c9024e7b10a801497ae76a44209732cb702877) を参照してください。
 
 ### 3. image-evidence-tool
 
@@ -79,7 +79,7 @@ npm install
 npm run dev
 ```
 
-詳細は [image-evidence-tool/README.md](image-evidence-tool/README.md) を参照してください。
+詳細は [image-evidence-tool](https://github.com/taiiii123/image-evidence-tool/tree/581c3b81d1ecf0f5852167ff2d47b2a5652f1a88) を参照してください。
 
 ## セットアップ
 
