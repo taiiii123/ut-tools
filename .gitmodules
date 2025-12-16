@@ -1,0 +1,9 @@
+[submodule "docker-db-builder-excel"]
+	path = docker-db-builder-excel
+	url = https://github.com/taiiii123/docker-db-builder-excel.git
+[submodule "DataPrepper"]
+	path = DataPrepper
+	url = https://github.com/taiiii123/DataPrepper.git
+[submodule "image-evidence-tool"]
+	path = image-evidence-tool
+	url = https://github.com/taiiii123/image-evidence-tool.git
