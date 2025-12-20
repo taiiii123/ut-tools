@@ -53,7 +53,7 @@ GUIでDockerデータベースコンテナを簡単に構築できるExcelマク
 - SQLファイルの自動出力
 
 **使用方法:**
-1. 対応するExcelファイルを開く（例: `MySQL/mysql_input_test_data.xlsm`）
+1. 対応するExcelファイルを開く（例: `MySQL/dataprepper_for_mysql.xlsm`）
 2. シートにテストデータを入力
 3. マクロボタンでSQL生成・実行
 
